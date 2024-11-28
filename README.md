@@ -70,26 +70,6 @@ This project is an interactive data visualization and analytics platform for exp
 
 ## 🖥️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nehul1149/Olympic-Data-Analysis.git
-   cd Olympic-Data-Analysis
-   ```
-2. Install required packages:
-```bash
-  pip install -r requirements.txt
-```
-3. Run the Streamlit app:
-```bash
-  streamlit run app.py
-```
-4. Open the app in your browser at http://localhost:8501.
-
----
-
-
-## 🖥️ How to Run the Project
-
 1. Visit the live application hosted on Streamlit:  
    [Olympic Data Analysis](https://olympic-data-analysis-bynehul.streamlit.app/)
 
@@ -108,9 +88,6 @@ This project is an interactive data visualization and analytics platform for exp
      streamlit run app.py
      ```
    - Open the app in your browser at `http://localhost:8501`.
-
-
-
 
 
 ## 📢 Contributions
